@@ -13,8 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Onsite Productions
-email: adam@eonsiteproductions.co.uk
+title: Onsight Productions
+email: adam@onsightproductions.co.uk
 description: >- # this means to ignore newlines until "baseurl:"
   Onsight Productions, the umbrella organisation for various projects and development. 
   Community promoted with variying levels of dedication, and seriousness!
