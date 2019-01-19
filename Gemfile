@@ -32,5 +32,6 @@ gem 'jekyll-compose', group: [:jekyll_plugins]
 # https://github.com/jekyll/jekyll-sitemap
 gem 'jekyll-sitemap'
 # theme: https://github.com/mmistakes/minimal-mistakes
-gem 'jekyll-include-cache'
-gem "minimal-mistakes-jekyll"
+#gem 'jekyll-include-cache'
+#gem "minimal-mistakes-jekyll"
+gem 'jekyll-archives'
