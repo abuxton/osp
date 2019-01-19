@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"extensions.recommendations": [
+		"fcrespo82.markdown-table-formatter",
+		"ginfuru.ginfuru-vscode-jekyll-syntax",
+		"ginfuru.vscode-jekyll-snippets",
+		"mdickin.markdown-shortcuts",
+		"shd101wyy.markdown-preview-enhanced",
+		"yzhang.markdown-all-in-one"
+	]
+}
